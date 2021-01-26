@@ -2,7 +2,7 @@
 declare(strict_types=1);
 namespace GiocoPlus\YBlive\Contract;
 /**
- * 新高登棋牌
+ * YBlive
  */
 interface YBliveServiceInterface {
 
