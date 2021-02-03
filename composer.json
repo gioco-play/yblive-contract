@@ -1,6 +1,6 @@
 {
     "name": "gioco-plus/yblive-contract",
-    "description": "YBlive interface",
+    "description": "YBLive interface",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "GiocoPlus\\YBlive\\": "src/"
+            "GiocoPlus\\YBLive\\": "src/"
         }
     },
     "require": {}

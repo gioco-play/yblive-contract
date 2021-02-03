@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
-namespace GiocoPlus\YBlive\Contract;
+namespace GiocoPlus\YBLive\Contract;
 /**
- * YBlive
+ * YBLive
  */
-interface YBliveServiceInterface {
+interface YBLiveServiceInterface {
 
     /**
      * 遊戲啟動
